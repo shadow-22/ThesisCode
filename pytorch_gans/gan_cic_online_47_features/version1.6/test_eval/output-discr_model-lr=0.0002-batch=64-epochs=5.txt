@@ -1,0 +1,1 @@
+Number of total samples: 28307 | Number of correct BENIGN predictions: 21838 | Number of total BENIGN connections: 22652 | Number of correct ATTACK predictions: 4936 | Number of total ATTACK connections: 5655 | Accuracy BENIGN: 0.9640649832244393 | Accuracy ATTACK: 0.8728558797524315 
